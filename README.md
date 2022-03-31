@@ -15,6 +15,14 @@ Apps Used:
 ## Used Packets:
 [Code Scanner by twostraws](https://github.com/twostraws/CodeScanner)
 
+##To do:
+* Send / Export Cards with sharesheet.
+* Different Modes -> 1 Device Mode
+* Story overview.
+* Rules overview.
+* Different player counts.
+* More Cards / Roles.
+
 ## More Screenshots
 <details>
   <summary>Click to Expand!</summary>
