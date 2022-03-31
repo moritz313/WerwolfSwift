@@ -1,5 +1,5 @@
 ### WerwolfSwift
 ## Werwolf / TTT / Amongus Inspired Party game made with Swift.
-![Different Cards](![image](https://i.imgur.com/NLb8AYY.jpg))
+![alt text](https://i.imgur.com/NLb8AYY.jpg "Different Cards")
 
 https://github.com/twostraws/CodeScanner
