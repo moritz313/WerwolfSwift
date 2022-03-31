@@ -1,7 +1,7 @@
 ### WerwolfSwift
 ## Werwolf / TTT / Amongus Inspired Party game made with Swift.
 ![alt text](https://i.imgur.com/ybxGS68.jpg "Main Banner")
-
+This app is inspired by popular videogames like TTT, Amongus and the popular german party card game [Werwolf](https://de.wikipedia.org/wiki/Die_Werwölfe_von_Düsterwald).
 The whole App + all the graphics for the app were made only using an IPad Pro 2018.
 Apps Used:
 * Swift Playgrounds 5
