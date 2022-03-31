@@ -12,5 +12,5 @@
   
   ## :)
   ![alt text](https://i.imgur.com/NLb8AYY.jpg "Different Cards")
-  ![alt text](https://i.imgur.com/NLb8AYY.jpg "Different Cards")
+  ![alt text](https://i.imgur.com/iOZUOfW.jpg "Different Screens")
 </details>
